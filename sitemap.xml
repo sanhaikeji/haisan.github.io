@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haisan.club/2026/03/24/mathstheorem/</loc>
+    
+    <lastmod>2026-08-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haisan.club/2026/06/29/noi/</loc>
     
     <lastmod>2026-08-21</lastmod>
@@ -354,15 +363,6 @@
   
   <url>
     <loc>http://haisan.club/2026/03/12/hello-world/</loc>
-    
-    <lastmod>2026-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://haisan.club/2026/03/24/mathstheorem/</loc>
     
     <lastmod>2026-05-14</lastmod>
     
@@ -803,6 +803,13 @@
   
   <url>
     <loc>http://haisan.club/tags/%E5%8F%AF%E6%8C%81%E4%B9%85%E5%8C%96/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haisan.club/tags/LH/</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
