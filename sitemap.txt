@@ -1,3 +1,4 @@
+http://haisan.club/2026/06/29/noi/
 http://haisan.club/2026/04/05/NOIP2017D2T3/
 http://haisan.club/2026/06/28/sheng/
 http://haisan.club/2026/05/01/TUMMY1/
@@ -26,7 +27,6 @@ http://haisan.club/2026/07/14/phi/
 http://haisan.club/2026/07/14/CF1175G/
 http://haisan.club/2026/07/11/apiochuti/
 http://haisan.club/2026/07/04/hall/
-http://haisan.club/2026/06/29/noi/
 http://haisan.club/2026/06/17/wzhpre/
 http://haisan.club/2026/05/30/NOIP2022/
 http://haisan.club/2026/05/29/transpose/
@@ -81,15 +81,6 @@ http://haisan.club/tags/2017/
 http://haisan.club/tags/%E4%BA%8C%E5%88%86/
 http://haisan.club/tags/%E6%95%B0%E8%AE%BA/
 http://haisan.club/tags/%E6%95%B4%E9%99%A4%E5%88%86%E5%9D%97/
-http://haisan.club/tags/2000/
-http://haisan.club/tags/2001/
-http://haisan.club/tags/2019/
-http://haisan.club/tags/2021/
-http://haisan.club/tags/2022/
-http://haisan.club/tags/2014/
-http://haisan.club/tags/2015/
-http://haisan.club/tags/2003/
-http://haisan.club/tags/2007/
 http://haisan.club/tags/%E7%BB%BC%E5%90%88/
 http://haisan.club/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/
 http://haisan.club/tags/%E7%9C%81%E9%80%89%E8%81%94%E8%80%83/
