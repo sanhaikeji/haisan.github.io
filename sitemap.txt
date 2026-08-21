@@ -1,3 +1,4 @@
+http://haisan.club/2026/05/07/wzhoi1/
 http://haisan.club/2026/04/29/YNOI1/
 http://haisan.club/2026/07/26/lost/
 http://haisan.club/2026/08/21/richest/
@@ -36,7 +37,6 @@ http://haisan.club/2026/05/11/FFT/
 http://haisan.club/2026/05/13/FFT2/
 http://haisan.club/2026/03/12/hello-world/
 http://haisan.club/2026/03/24/mathstheorem/
-http://haisan.club/2026/05/07/wzhoi1/
 http://haisan.club/2026/05/01/TUMMY1/
 http://haisan.club/2026/04/09/Sanhai-s-PRE/
 http://haisan.club/2026/04/05/NOIP2017D2T3/
@@ -109,3 +109,5 @@ http://haisan.club/tags/%E5%86%B3%E7%AD%96%E5%8D%95%E8%B0%83%E6%80%A7/
 http://haisan.club/tags/YNOI/
 http://haisan.club/tags/%E8%8E%AB%E9%98%9F/
 http://haisan.club/tags/bitset/
+http://haisan.club/tags/%E6%A0%B9%E5%8F%B7%E5%88%86%E6%B2%BB/
+http://haisan.club/tags/%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E5%8F%8D%E6%BC%94/
