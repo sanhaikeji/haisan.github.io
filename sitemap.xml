@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haisan.club/2026/08/25/jcddx/</loc>
+    
+    <lastmod>2026-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haisan.club/2026/08/23/NOI2026D1T3/</loc>
     
     <lastmod>2026-08-23</lastmod>
@@ -835,6 +844,20 @@
   
   <url>
     <loc>http://haisan.club/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haisan.club/tags/2016/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haisan.club/tags/%E8%83%8C%E5%8C%85-DP/</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
