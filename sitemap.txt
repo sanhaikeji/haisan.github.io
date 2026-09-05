@@ -1,3 +1,4 @@
+http://haisan.club/2026/05/30/NOIP2022/
 http://haisan.club/2026/09/05/meow/
 http://haisan.club/2026/08/28/csp2025/
 http://haisan.club/2026/08/01/NOI2026D1T1/
@@ -37,7 +38,6 @@ http://haisan.club/2026/07/14/CF1175G/
 http://haisan.club/2026/07/11/apiochuti/
 http://haisan.club/2026/07/04/hall/
 http://haisan.club/2026/06/17/wzhpre/
-http://haisan.club/2026/05/30/NOIP2022/
 http://haisan.club/2026/05/29/transpose/
 http://haisan.club/2026/04/18/PAM/
 http://haisan.club/2026/05/17/PC2/
