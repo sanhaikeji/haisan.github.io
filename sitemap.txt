@@ -1,3 +1,4 @@
+http://haisan.club/2026/09/13/icpc2018njr3/
 http://haisan.club/2026/09/13/icpc2018njr2/
 http://haisan.club/2026/09/13/apio2020/
 http://haisan.club/2026/09/12/icpc2018njr1/
@@ -139,3 +140,7 @@ http://haisan.club/tags/%E5%B7%AE%E5%88%86/
 http://haisan.club/tags/%E4%B8%89%E5%88%86/
 http://haisan.club/tags/Kruskal-%E9%87%8D%E6%9E%84%E6%A0%91/
 http://haisan.club/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/
+http://haisan.club/tags/Manacher/
+http://haisan.club/tags/exKMP/
+http://haisan.club/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/
+http://haisan.club/tags/%E5%9B%BE%E8%AE%BA%E5%BB%BA%E6%A8%A1/
