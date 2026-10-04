@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haisan.club/2026/10/04/TopTree/</loc>
+    
+    <lastmod>2026-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haisan.club/2026/10/03/ABC478/</loc>
     
     <lastmod>2026-10-03</lastmod>
@@ -1490,6 +1499,13 @@
   
   <url>
     <loc>http://haisan.club/tags/Prufer-%E5%BA%8F%E5%88%97/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haisan.club/tags/Top-Tree/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
