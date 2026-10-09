@@ -1,3 +1,6 @@
+http://haisan.club/2026/10/09/match/
+http://haisan.club/2026/10/09/tree3/
+http://haisan.club/2026/10/09/decompos/
 http://haisan.club/2026/10/08/hdu2013/
 http://haisan.club/2026/10/05/joistfish/
 http://haisan.club/2026/10/04/TopTree/
@@ -191,3 +194,4 @@ http://haisan.club/tags/2019/
 http://haisan.club/tags/Prufer-%E5%BA%8F%E5%88%97/
 http://haisan.club/tags/Top-Tree/
 http://haisan.club/tags/%E5%8D%95%E8%B0%83%E6%A0%88/
+http://haisan.club/tags/%E5%8C%BA%E9%97%B4-DP/
