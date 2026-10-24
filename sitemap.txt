@@ -1,3 +1,4 @@
+http://haisan.club/2026/10/24/bailei/
 http://haisan.club/2026/10/23/stamp/
 http://haisan.club/2026/05/13/FFT2/
 http://haisan.club/2026/10/22/bubblemach/
@@ -221,3 +222,4 @@ http://haisan.club/tags/%E9%A2%9C%E8%89%B2%E6%AE%B5%E5%9D%87%E6%91%8A%EF%BC%88%E
 http://haisan.club/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/
 http://haisan.club/tags/Wavelet/
 http://haisan.club/tags/%E6%95%B0%E4%BD%8D-DP/
+http://haisan.club/tags/UOJ/
