@@ -1,3 +1,4 @@
+http://haisan.club/2026/11/04/migrate2/
 http://haisan.club/2026/11/03/maxsum/
 http://haisan.club/2026/11/01/migrate/
 http://haisan.club/2026/11/01/s26/
@@ -252,3 +253,4 @@ http://haisan.club/tags/ACAM/
 http://haisan.club/tags/%E6%A0%91%E8%AE%BA/
 http://haisan.club/tags/2005/
 http://haisan.club/tags/%E5%93%88%E5%B8%8C/
+http://haisan.club/tags/DP-of-DP/
