@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haisan.club/2026/11/11/bitnoi/</loc>
+    
+    <lastmod>2026-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haisan.club/2026/11/10/hub/</loc>
     
     <lastmod>2026-11-10</lastmod>
@@ -2185,6 +2194,13 @@
   
   <url>
     <loc>http://haisan.club/tags/2021/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://haisan.club/tags/%E6%8A%BD%E5%B1%89%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
